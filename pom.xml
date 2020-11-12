@@ -13,6 +13,7 @@
         <module>dafy</module>
         <module>dasx</module>
         <module>DashBoard</module>
+        <module>config</module>
     </modules>
     <properties>
         <jdk.version>1.8</jdk.version>
